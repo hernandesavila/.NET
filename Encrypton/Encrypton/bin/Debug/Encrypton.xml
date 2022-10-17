@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Encrypton
+</name>
+</assembly>
+<members>
+<member name="M:Encrypton.Encryption.MD5Hash(System.String)">
+	<summary> 
+ Calculates the MD5 Hash
+ </summary>
+	<param name="value">Key</param>
+</member><member name="M:Encrypton.Encryption.Encrypt(System.String)">
+	<summary> 
+ Encrypt a string based on a key
+ </summary>
+	<param name="stringToEncrypt">String to encrypt</param>
+</member><member name="M:Encrypton.Encryption.Decrypt(System.String)">
+	<summary> 
+ Decrypt a string based on a key
+ </summary>
+	<param name="encryptedString">String to decrypt</param>
+</member><member name="T:Encrypton.Encryption">
+	<summary>
+ Class that manage all encryption acts
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Encrypton.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Encrypton.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Encrypton.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
