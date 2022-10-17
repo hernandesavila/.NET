@@ -1,0 +1,1876 @@
+                                                     
+                                                                                               
+                                                                                               
+                     
+EGA Engenharia e Automação Ltda  Rua Lord Cockrane, 573  Ipiranga  04213-001 - São Paulo 
+Proposta comercial PRC-20210281   R01                                                                   Página: 1/9
+                                                                                                                                                                                                                                                
+ 
+Presença Mundial
+ 
+ 
+ 
+PROPOSTA COMERCIAL
+ PRC-20210281 Revisão: 01 
+Data de emissão: 25-06-2021
+Projeto : PILOTO AUTOMOTIVA
+Modalidade: Venda
+À
+PRYSMIAN CABOS E SISTEMAS DO BRASIL S/A
+Sr(a) Antonio Sergio Gomes Paes
+                                                     
+                                                                                               
+                                                                                               
+                     
+EGA Engenharia e Automação Ltda  Rua Lord Cockrane, 573  Ipiranga  04213-001 - São Paulo 
+Proposta comercial PRC-20210281   R01                                                                   Página: 2/9
+                                                                                                                                                                                                                                                
+RESUMO DA PROPOSTA                                                                                                        
+1. OBJETIVO
+Fornecimento de soluções (MES), Hardware, Software e Consultoria para gestão de manufatura.                                       
+                
+                                                                                                                                                         
+                                                                                                   
+A EGA é uma empresa 100% brasileira, e está a  30 anos fornecendo soluções em hardware e software na área de Automação
+Industrial, integrando as informações geradas no chão de fábrica aos sistemas de gestão de mercado.
+Nossos produtos, software e hardware, são inteiramente desenvolvidos e fabricados em nossa empresa, estabelecendo assim a
+confiabilidade e o compromisso para com os nossos clientes.
+Devido à alta qualidade e custo baixo dos nossos produtos, a EGA Engenharia e Automação se consolidou e conquistou o
+mercado nacional e internacional. Possuímos em nossa equipe, profissionais altamente qualificados, levando aos clientes as
+melhores soluções em suas aplicações. Todos nossos produtos são desenvolvidos com a mais alta tecnologia.
+Complementam esta proposta os documentos relacionados na tabela abaixo. Estes documentos fornecem os detalhes a respeito
+do escopo dos produtos e serviços contratados
+Nome do Documento Identificador
+Requisitos Hardware FO-19 REV. - 03
+                                                     
+                                                                                               
+                                                                                               
+                     
+EGA Engenharia e Automação Ltda  Rua Lord Cockrane, 573  Ipiranga  04213-001 - São Paulo 
+Proposta comercial PRC-20210281   R01                                                                   Página: 3/9
+                                                                                                                                                                                                                                                
+2. RESUMO FINANCEIRO DA PROPOSTA
+A seguir apresentamos os valores desta proposta por tipo de produto/item.
+Tipo Código Qtde Descrição dos produtos NCM
+Valor
+Unitário
+%
+Icms
+(ST)
+Total
+Hardware 202.300 30,00
+IHM-PCP216BLWL 4E _0T_ (CF)-C8S
+Interface Homem Maquina (1x1) - Wireless, 4
+entradas (Produção , Parada ou Rejeição,
+Energia, Parada), Fonte
+8471.50.10 R$2.682,01 0,00 R$80.460,30
+Hardware 205.014 30,00
+Entrada USB
+Entrada USB para leitor de código de barras
+--o-- R$719,92 0,00 R$21.597,60
+Hardware 205.012 30,00
+Serial RS232 - Saida Impressora
+Saída serial RS232 para impressora
+--o-- R$336,61 0,00 R$10.098,30
+Hardware 204.001 30,00
+Conversor de Sinal CS-2EP4
+Equipamento para conversão de sinal de
+produção 24VCC comum positivo.
+9032.89.90 R$105,00 0,00 R$3.150,00
+Hardware 205.004 6,00
+Ponto de Acesso CRF-PCPWL
+Antena RF CRF
+8517.62.48 R$2.980,00 0,00 R$17.880,00
+Software 300.004 1,00
+1ª Licença de uso do Gestão a vista
+(Padrão EGA)
+Licença de uso do software Gestão a vista
+PADRÃO EGA
+--o-- R$18.562,00 0,00 R$18.562,00
+Software 300.001 1,00
+2ª Licença de uso do software
+PCPMaster
+Licença de uso do software PCPMaster -
+Usuários Ilimitados.
+--o-- R$24.961,58 0,00 R$24.961,58
+Serviço 400.000 120,00
+Horas de Projeto - PCPMaster
+Quantidade de horas estimadas para o módulo
+PCPMASTER incluindo instalação, validação,
+treinamento e acompanhamento
+R$198,00 0,00 R$23.760,00
+Software 300.018 1,00
+1ª Licença do uso do software - WEBAPI
+Integração com SAP, via WebAPI ( Restfull) -
+MÒDULO PP
+--o-- R$28.300,66 0,00 R$28.300,66
+Serviço 400.010 176,00
+Horas de Projeto - Integração (API)
+Quantidade de horas estimadas para o projeto
+de integração com SAP ( MÒDULO PP )
+R$198,00 0,00 R$34.848,00
+Serviço 400.027 80,00
+Horas de Projeto -
+Customização/Desenvolvimento
+Quantidade de horas estimadas para o
+desenvolvimento da API - MÓDULO PM
+R$250,00 0,00 R$20.000,00
+Serviço 400.013 1,00
+Deslocamento, Hospedagem, Refeição
+O deslocamento está sendo considerado para
+02 visitas presenciais. O Restante será realizado
+remotamente.
+R$588,42 0,00 R$588,42
+                                                                                                                                                 
+                                                                                                                           Total Geral R$284.206,86
+Todos os impostos estão contemplados nos valores apresentados nesta proposta comercial..Situação tributária - simples com
+excesso de sublimite da Receita Bruta
+FRETE FOB
+ 
+A INTEGRAÇÃO COM SAP SERÁ NO FORMATO WEBAPI (RESTFULL) CONFORME DOCUMENTAÇÃO EM ANEXO.
+PARA O MÓDULO PM A INTEGRAÇÃO CONSISTE EM FORNECER AS INFORMAÇÕES DE DATA, HORA, CÓDIGO PARADA, MAQUINA E
+                                                     
+                                                                                               
+                                                                                               
+                     
+EGA Engenharia e Automação Ltda  Rua Lord Cockrane, 573  Ipiranga  04213-001 - São Paulo 
+Proposta comercial PRC-20210281   R01                                                                   Página: 4/9
+                                                                                                                                                                                                                                                
+OPERADOR , VIA WEBAPI PARA QUE O SAP ABRA A OS. NAO HAVERÁ NENHUMA TRATATIVA NESTE MOMENTO PARA
+ENCERRAMENTO/INTERRUPÇÃO DA OS.
+AS IMPRESSORAS DE CÓDIGO DE BARRAS DEVERÃO SEGUIR O PADRAO DE COMUNICAÇÃO PPLB RS232 - ( RESPONSABILIDADE
+DE AQUISIÇÃO DO CLIENTE )
+OS LEITORES DE CÓDIGO DE BARRAS DEVERÃO SER USB E SERÃO UTILIZADOS PARA LEITURA DOS EVENTOS DE PARADA,
+REFUGO, OPERADOR, OP, ETC, SEGUINDO O PADRAO EGA ( RESPONSABILIDADE DE AQUISIÇÃO DO CLIENTE )
+ 
+ 
+ 
+ 
+3. CONDIÇÕES COMERCIAIS
+CONDIÇÃO DE PAGAMENTO
+HARDWARE - 50% 7 DIAS DO PEDIDO, 50% 14 DIAS DA ENTREGA
+SOFTWARE - 100% 28 DIAS DO PEDIDO
+SERVIÇO - 50% 7 DIAS DO PEDIDO, 50% 28 DIAS DO PEDIDO
+SLA - MENSAL CONFORME CONTRATO
+ 
+                                                     
+                                                                                               
+                                                                                               
+                     
+EGA Engenharia e Automação Ltda  Rua Lord Cockrane, 573  Ipiranga  04213-001 - São Paulo 
+Proposta comercial PRC-20210281   R01                                                                   Página: 5/9
+                                                                                                                                                                                                                                                
+ 
+4. PRAZOS DE ENTREGA
+§  Hardware: Até 30 (trinta)  dias, a partir do recebimento do pedido de compras.
+§  Licenças de Uso: Até 30 (trinta)  dias, a partir do recebimento do pedido de compras.
+§  Caso ocorra cancelamento da agenda por parte do cliente, este deverá comunicar a EGA Engenharia com 5 dias de
+antecedência, após este prazo, será cobrado uma multa de 20% das horas contratadas. Esta multa não ficará como crédito
+para a próxima alocação.
+5. INFORMAÇÕES DE FATURAMENTO
+EGA ENGENHARIA E AUTOMAÇÃO LTDA
+CNPJ:  58.860.172/0001-15      
+I.E.: 112.089.703.112
+Rua Lord Cockrane, 573  Ipiranga  - 04213-001  São Paulo/SP.
+BANCO ITAU 341 , AGÊNCIA 0263 , CONTA CORRENTE 41240-5
+6. VALIDADE DA PROPOSTA
+Esta proposta é válida até  25-07-2021, tornando nula toda e qualquer eventual proposta anterior.
+                                                     
+                                                                                               
+                                                                                               
+                     
+EGA Engenharia e Automação Ltda  Rua Lord Cockrane, 573  Ipiranga  04213-001 - São Paulo 
+Proposta comercial PRC-20210281   R01                                                                   Página: 6/9
+                                                                                                                                                                                                                                                
+As soluções EGA são conhecidas e valorizadas por mais de 300 empresas em  07  países. Nossos clientes são representados por
+organizações de diversos tamanhos e de diversos segmentos da indústria e todas com um objetivo em comum: tomada de
+ações com assertividade e com acuracidade nos dados.
+ALGUNS CLIENTES                                                                                                                     
+                                                  
+                                                   
+                                                     
+                                                                                               
+                                                                                               
+                     
+EGA Engenharia e Automação Ltda  Rua Lord Cockrane, 573  Ipiranga  04213-001 - São Paulo 
+Proposta comercial PRC-20210281   R01                                                                   Página: 7/9
+                                                                                                                                                                                                                                                
+7. CONDIÇÕES GERAIS DE FORNECIMENTO
+FORMA DE COMERCIALIZAÇÃO E LICENCIAMENTO DO SOFTWARE
+Licenças de Uso  A licença é única por servidor, ou seja, o número de usuários  é ilimitado. Assim não existe limite de
+crescimento na quantidade de usuários que a empresa venha a ter ao longo do tempo.
+SERVIÇOS EM HORÁRIO NÃO COMERCIAL
+As horas utilizadas em serviços prestados fora do horário comercial terão acréscimo de:
+-  60% (sessenta por cento): sobre as horas extras de 2ª a 6ª-feira, no prolongamento do horário comercial;
+-  60% (sessenta por cento): sobre as horas extras efetuadas aos sábados, até o limite de 04 (Quatro Horas);
+- 100% (cem por cento):sobre as demais horas extras dos sábados, conforme item anterior;
+- 100% (cem por cento):sobre as horas extras efetuadas aos domingos e feriados.
+Deve ser considerado sempre o horário do local da prestação do serviço.
+PRÉ-REQUISITOS DE INSTALAÇÃO
+A instalação será iniciada somente após o preenchimento de formulário específico referente ao ambiente do cliente.Os
+pré-requisitos técnicos para instalação do sistema referentes a hardware e software devem ser tratados paralelamente a
+aquisição da solução.
+Qualificação Profissional Técnica: Para administração do sistema é necessário nomear um usuário com conhecimento geral
+mínimo em Informática (sist. operacional e banco de dados).
+ACEITE DOS SERVIÇOS PELO CLIENTE
+O cliente terá 5 dias úteis a partir da conclusão do serviço proposto neste escopo para manifestar o seu aceite ou não. Toda e
+qualquer tratativa a respeito dos serviços deverá ser registrada via e-mail. Caso o cliente não se manifeste em até 5 dias úteis
+após a conclusão, os serviços serão considerados automaticamente como aceitos e homologados, habilitando desta forma o seu
+faturamento conforme valores e condições em proposta comercial, bem como o início do período de garantia.
+PRAZO DE GARANTIA DOS SERVIÇOS
+O prazo de garantia padrão é de 90 dias corridos contados a partir da homologação do serviço executado.Para customizações,
+caso desejável, poderá ser contratado junto a EGA uma garantia estendida com prazo mínimo de 12 (doze) meses, podendo ser
+renovada mediante negociação de ambas as partes.
+Recomenda-se a contratação da garantia estendida para customizações, pois ela assegura o suporte e compatibilização das
+customizações com versões futuras dos produtos EGA. Maiores detalhes sobre a garantia da customização estão descritos na
+especificação técnica.A data base de renovação automática da garantia estendida de customização será a mesma data base da
+renovação do SLA dos produtos EGA.
+CÓDIGOS FONTES EGA
+A EGA declara que é titular de todos os direitos autorais dos Programas e documentação correlatas, sendo assim, a licença de
+uso do sistema não implica na cessão dos códigos fontes do mesmo.É garantido ao cliente o direito de adquirir os códigos fontes
+dos Programas caso a EGA encerre suas atividades sem deixar sucessora ou, ainda, no caso de falência de sua sociedade por
+um preço que não será superior a 20 (vinte) vezes o preço praticado para a presente licença.
+ 
+                                                     
+                                                                                               
+                                                                                               
+                     
+EGA Engenharia e Automação Ltda  Rua Lord Cockrane, 573  Ipiranga  04213-001 - São Paulo 
+Proposta comercial PRC-20210281   R01                                                                   Página: 8/9
+                                                                                                                                                                                                                                                
+OUTRAS CONSIDERAÇÕES
+·O cliente deverá designar um representante para acompanhar os serviços, com poderes para encaminhar todas as
+atividades e decisões, que se fizerem necessários.
+·A execução dos serviços ocorrerá nas dependências do cliente, devendo este disponibilizar toda a infra-estrutura
+necessária à execução dos serviços, tais como: local físico, softwares, hardwares, e outros que se fizerem necessários.
+·O cliente deverá permitir o acesso às suas instalações, bem como permitir o acesso a toda e qualquer documentação
+pertinente ao escopo dos serviços, orientando sobre as normas e procedimentos.
+·A EGA garante absoluta confidencialidade sobre todos e quaisquer materiais e informações disponibilizados e que sejam
+pertinentes ao processo.
+·Fica facultado ao cliente o cancelamento dos serviços contratados no presente instrumento desde que formalizado por
+escrito, com antecedência mínima de 30 (trinta) dias, hipótese em que deverá efetuar o    pagamento das parcelas
+vencidas até a referida data.
+·O período mínimo de cada visita de consultoria é de 08 horas.
+·As horas descritas nesta proposta comercial deverão ser utilizadas no prazo máximo de 90 dias, após a assinatura da
+mesma. Após este período, as mesmas expirarão.
+ 
+ITENS NÃO CONTEMPLADOS NESTA PROPOSTA COMERCIAL
+·Infra estrutura como : Cabos de interligação (rede), conduites, fixação das IHM´s , fiação de interligação com a máquina
+(sensor), suporte e fiação elétrica
+·Micro Computador PC / Servidor
+PRAZO DE GARANTIA DO HARDWARE
+·O prazo de garantia dos equipamentos (hardware) é de 01 (um) ano a contar da data de entrega
+A Ega Engenharia se responsabiliza dentro do prazo de garantia pela correção, sem ônus para a compradora, dos defeitos
+comprovados de fabricação do produto fornecido, todavia ela não se responsabiliza pelos defeitos causados pela
+compradora em decorrência de operação incorreta do equipamento ou de reparos efetuados sem sua prévia autorização.
+A solicitação dos serviços de assistência técnica deverá ser realizada por e-mail a area comercial/consultoria.
+A assistência técnica fora do prazo de garantia e a constatação inadequada do uso do equipamento terá como custo a
+compradora hora técnica e visita.
+                                                     
+                                                                                               
+                                                                                               
+                     
+EGA Engenharia e Automação Ltda  Rua Lord Cockrane, 573  Ipiranga  04213-001 - São Paulo 
+Proposta comercial PRC-20210281   R01                                                                   Página: 9/9
+                                                                                                                                                                                                                                                
+ACEITE DA PROPOSTA
+À
+EGA Engenharia e Automação Ltda
+Ref.:  ACEITE DA PROPOSTA COMERCIAL   N.º  PRC-20210281 REV.  01
+Solicitamos que, uma vez aceitos os serviços descritos nesta proposta, nos seja devolvida uma das vias assinada pelo
+Representante Legal de vossa empresa, confirmando a aceitação da mesma.
+A presente proposta regulará a relação da prestação dos serviços entre a EGA Engenharia e Automação Ltda. e PRYSMIAN
+CABOS E SISTEMAS DO BRASIL S/A Para todos os efeitos, entregue neste ato a Sr(a) Antonio Sergio Gomes Paes.
+A PRYSMIAN CABOS E SISTEMAS DO BRASIL S/A declara estar ciente do o objetivo e o escopo do projeto, documentos
+complementares, a metodologia de implantação, a alocação de recursos, os custos envolvidos, o prazo de implantação, prazo
+de pagamentos e acata as premissas e recomendações importantes, as quais integram e complementam a presente proposta.
+DADOS PARA FATURAMENTO *PREENCHIMENTO OBRIGATÓRIO:
+Razão Social:                                                                      CNPJ:                                                        Inscrição Estadual:    
+Informar a Forma de Pagamento: (   ) Boleto bancário (   ) Depósito em conta
+Endereço completo:                                                                     E-mail_NF Eletrônica:     
+Aprovação Faturamento através: (   ) Contrato assinado  (   ) OC     (   ) Aceite da Proposta assinado
+São Paulo, 08-07-2021
+Atenciosamente,
+                   
+Renato Freire Alvarenga          
+ (11) 2063-8895 | (11) 9 4801-2344 |
+www.ega.com.br                                                                           
+ 
+PRYSMIAN CABOS E SISTEMAS DO BRASIL S/A
+T
+i
+p
+o
+C
+ó
+d
+i
+g
+o
+Q
+t
+d
+e
+D
+e
+s
+c
+r
+i
+ç
+ã
+o
+d
+o
+s
+p
+r
+o
+d
+u
+t
+o
+s
+N
+C
+M
+V
+a
+l
+o
+r
+U
+n
+i
+t
+á
+r
+i
+o
+%
+I
+c
+m
+s
+(
+S
+T)
+T
+o
+t
+a
+l
+H
+a
+r
+d
+w
+a
+r
+e
+2
+0
+2.
+3
+0
+0
+3
+0,
+0
+0
+I
+H
+M
+-
+P
+C
+P
+2
+1
+6
+B
+L
+W
+L
+4
+E
+_
+0
+T
+_
+(
+C
+F)
+-
+C
+8
+S
+8
+4
+7
+1.
+5
+0.
+1
+0
+R
+$
+2.
+6
+8
+2,
+0
+1
+0,
+0
+0
+R
+$
+8
+0.
+4
+6
+0,
+3
+0
+H
+a
+r
+d
+w
+a
+r
+e
+2
+0
+5.
+0
+1
+4
+3
+0,
+0
+0
+E
+n
+t
+r
+a
+d
+a
+U
+S
+B
+-
+-
+o
+-
+-
+R
+$
+7
+1
+9,
+9
+2
+0,
+0
+0
+R
+$
+2
+1.
+5
+9
+7,
+6
+0
+H
+a
+r
+d
+w
+a
+r
+e
+2
+0
+5.
+0
+1
+2
+3
+0,
+0
+0
+S
+e
+r
+i
+a
+l
+R
+S
+2
+3
+2
+-
+S
+a
+i
+d
+a
+I
+m
+p
+r
+e
+s
+s
+o
+r
+a
+-
+-
+o
+-
+-
+R
+$
+3
+3
+6,
+6
+1
+0,
+0
+0
+R
+$
+1
+0.
+0
+9
+8,
+3
+0
+H
+a
+r
+d
+w
+a
+r
+e
+2
+0
+4.
+0
+0
+1
+3
+0,
+0
+0
+C
+o
+n
+v
+e
+r
+s
+o
+r
+d
+e
+S
+i
+n
+a
+l
+C
+S
+-
+2
+E
+P
+4
+9
+0
+3
+2.
+8
+9.
+9
+0
+R
+$
+1
+0
+5,
+0
+0
+0,
+0
+0
+R
+$
+3.
+1
+5
+0,
+0
+0
+H
+a
+r
+d
+w
+a
+r
+e
+2
+0
+5.
+0
+0
+4
+6,
+0
+0
+P
+o
+n
+t
+o
+d
+e
+A
+c
+e
+s
+s
+o
+C
+R
+F
+-
+P
+C
+P
+W
+L
+8
+5
+1
+7.
+6
+2.
+4
+8
+R
+$
+2.
+9
+8
+0,
+0
+0
+0,
+0
+0
+R
+$
+1
+7.
+8
+8
+0,
+0
+0
+S
+o
+f
+t
+w
+a
+r
+e
+3
+0
+0.
+0
+0
+4
+1,
+0
+0
+1
+ª
+L
+i
+c
+e
+n
+ç
+a
+d
+e
+u
+s
+o
+d
+o
+G
+e
+s
+t
+ã
+o
+a
+v
+i
+s
+t
+a
+(
+P
+a
+d
+r
+ã
+o
+E
+G
+A)
+-
+-
+o
+-
+-
+R
+$
+1
+8.
+5
+6
+2,
+0
+0
+0,
+0
+0
+R
+$
+1
+8.
+5
+6
+2,
+0
+0
+S
+o
+f
+t
+w
+a
+r
+e
+3
+0
+0.
+0
+0
+1
+1,
+0
+0
+2
+ª
+L
+i
+c
+e
+n
+ç
+a
+d
+e
+u
+s
+o
+d
+o
+s
+o
+f
+t
+w
+a
+r
+e
+P
+C
+P
+M
+a
+s
+t
+e
+r
+-
+-
+o
+-
+-
+R
+$
+2
+4.
+9
+6
+1,
+5
+8
+0,
+0
+0
+R
+$
+2
+4.
+9
+6
+1,
+5
+8
+S
+e
+r
+v
+i
+ç
+o
+4
+0
+0.
+0
+0
+0
+1
+2
+0,
+0
+0
+H
+o
+r
+a
+s
+d
+e
+P
+r
+o
+j
+e
+t
+o
+-
+P
+C
+P
+M
+a
+s
+t
+e
+r
+R
+$
+1
+9
+8,
+0
+0
+0,
+0
+0
+R
+$
+2
+3.
+7
+6
+0,
+0
+0
+S
+o
+f
+t
+w
+a
+r
+e
+3
+0
+0.
+0
+1
+8
+1,
+0
+0
+1
+ª
+L
+i
+c
+e
+n
+ç
+a
+d
+o
+u
+s
+o
+d
+o
+s
+o
+f
+t
+w
+a
+r
+e
+-
+W
+E
+B
+A
+P
+I
+-
+-
+o
+-
+-
+R
+$
+2
+8.
+3
+0
+0,
+6
+6
+0,
+0
+0
+R
+$
+2
+8.
+3
+0
+0,
+6
+6
+S
+e
+r
+v
+i
+ç
+o
+4
+0
+0.
+0
+1
+0
+1
+7
+6,
+0
+0
+H
+o
+r
+a
+s
+d
+e
+P
+r
+o
+j
+e
+t
+o
+-
+I
+n
+t
+e
+g
+r
+a
+ç
+ã
+o
+(
+A
+P
+I)
+R
+$
+1
+9
+8,
+0
+0
+0,
+0
+0
+R
+$
+3
+4.
+8
+4
+8,
+0
+0
+S
+e
+r
+v
+i
+ç
+o
+4
+0
+0.
+0
+2
+7
+8
+0,
+0
+0
+H
+o
+r
+a
+s
+d
+e
+P
+r
+o
+j
+e
+t
+o
+-
+C
+u
+s
+t
+o
+m
+i
+z
+a
+ç
+ã
+o
+/
+D
+e
+s
+e
+n
+v
+o
+l
+v
+i
+m
+e
+n
+t
+o
+R
+$
+2
+5
+0,
+0
+0
+0,
+0
+0
+R
+$
+2
+0.
+0
+0
+0,
+0
+0
+S
+e
+r
+v
+i
+ç
+o
+4
+0
+0.
+0
+1
+3
+1,
+0
+0
+D
+e
+s
+l
+o
+c
+a
+m
+e
+n
+t
+o,
+H
+o
+s
+p
+e
+d
+a
+g
+e
+m,
+R
+e
+f
+e
+i
+ç
+ã
+o
+R
+$
+5
+8
+8,
+4
+2
+0,
+0
+0
+R
+$
+5
+8
+8,
+4
+2
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+T
+o
+t
+a
+l
+G
+e
+r
+a
+l
+R
+$
+2
+8
+4.
+2
+0
+6,
+8
+6
+A
+I
+N
+T
+E
+G
+R
+A
+Ç
+Ã
+O
+C
+O
+M
+S
+A
+P
+S
+E
+R
+Á
+N
+O
+F
+O
+R
+M
+A
+T
+O
+W
+E
+B
+A
+P
+I
+(
+R
+E
+S
+T
+F
+U
+L
+L)
+C
+O
+N
+F
+O
+R
+M
+E
+D
+O
+C
+U
+M
+E
+N
+T
+A
+Ç
+Ã
+O
+E
+M
+A
+N
+E
+X
+O.
+P
+A
+R
+A
+O
+M
+Ó
+D
+U
+L
+O
+P
+M
+A
+I
+N
+T
+E
+G
+R
+A
+Ç
+Ã
+O
+C
+O
+N
+S
+I
+S
+T
+E
+E
+M
+F
+O
+R
+N
+E
+C
+E
+R
+A
+S
+I
+N
+F
+O
+R
+M
+A
+Ç
+Õ
+E
+S
+D
+E
+D
+A
+T
+A,
+H
+O
+R
+A,
+C
+Ó
+D
+I
+G
+O
+P
+A
+R
+A
+D
+A,
+M
+A
+Q
+U
+I
+N
+A
+E
+O
+P
+E
+R
+A
+D
+O
+R
+,
+V
+I
+A
+W
+E
+B
+A
+P
+I
+P
+A
+R
+A
+Q
+U
+E
+O
+S
+A
+P
+A
+B
+R
+A
+A
+O
+S.
+N
+A
+O
+H
+A
+V
+E
+R
+Á
+N
+E
+N
+H
+U
+M
+A
+T
+R
+A
+T
+A
+T
+I
+V
+A
+N
+E
+S
+T
+E
+M
+O
+M
+E
+N
+T
+O
+P
+A
+R
+A
+E
+N
+C
+E
+R
+R
+A
+M
+E
+N
+T
+O
+/
+I
+N
+T
+E
+R
+R
+U
+P
+Ç
+Ã
+O
+D
+A
+O
+S.
+A
+S
+I
+M
+P
+R
+E
+S
+S
+O
+R
+A
+S
+D
+E
+C
+Ó
+D
+I
+G
+O
+D
+E
+B
+A
+R
+R
+A
+S
+D
+E
+V
+E
+R
+Ã
+O
+S
+E
+G
+U
+I
+R
+O
+P
+A
+D
+R
+A
+O
+D
+E
+C
+O
+M
+U
+N
+I
+C
+A
+Ç
+Ã
+O
+P
+P
+L
+B
+R
+S
+2
+3
+2
+-
+(
+R
+E
+S
+P
+O
+N
+S
+A
+B
+I
+L
+I
+D
+A
+D
+E
+D
+E
+A
+Q
+U
+I
+S
+I
+Ç
+Ã
+O
+D
+O
+C
+L
+I
+E
+N
+T
+E
+)
+O
+S
+L
+E
+I
+T
+O
+R
+E
+S
+D
+E
+C
+Ó
+D
+I
+G
+O
+D
+E
+B
+A
+R
+R
+A
+S
+D
+E
+V
+E
+R
+Ã
+O
+S
+E
+R
+U
+S
+B
+E
+S
+E
+R
+Ã
+O
+U
+T
+I
+L
+I
+Z
+A
+D
+O
+S
+P
+A
+R
+A
+L
+E
+I
+T
+U
+R
+A
+D
+O
+S
+E
+V
+E
+N
+T
+O
+S
+D
+E
+P
+A
+R
+A
+D
+A,
+R
+E
+F
+U
+G
+O,
+O
+P
+E
+R
+A
+D
+O
+R,
+O
+P,
+E
+T
+C,
+S
+E
+G
+U
+I
+N
+D
+O
+O
+P
+A
+D
+R
+A
+O
+E
+G
+A
+(
+R
+E
+S
+P
+O
+N
+S
+A
+B
+I
+L
+I
+D
+A
+D
+E
+D
+E
+A
+Q
+U
+I
+S
+I
+Ç
+Ã
+O
+D
+O
+C
+L
+I
+E
+N
+T
+E
+)
