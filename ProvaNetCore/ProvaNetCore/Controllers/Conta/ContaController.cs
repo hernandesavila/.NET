@@ -56,5 +56,17 @@ namespace ProvaNetCore.Controllers
 
             return NotFound("Não há dados a serem retornados");
         }
+
+
+        [HttpGet("{id}")]
+        public IActionResult RecuperarContaPorId(int id)
+        {
+            ReadContaDto readCinemaDto = _contaService.RecuperarContaPorId(id);
+
+            if (readCinemaDto != null)
+                return Ok(readCinemaDto);
+
+            return NotFound("Não há dados a serem retornados");
+        }
     }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YOMxBRU18FMGMu1humN1nqxU3IRYN2X2lx1IXS52fozZ9AeD+3nk+VBQ2PVXiJRPl+2ZF9Lh1Vgza7PTWUUFtQ==",
+  "dgSpecHash": "X1D529GmCjSmfZWIl+PejPnIDKRWfDm3SOh9RnYQAsDK/yi4THFmOKvWQboc/FUckLRDiYLOniLu/dXlHIw/Kg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\olivehe001\\source\\repos\\ProvaNetCore\\ProvaNetCoreClient\\ProvaNetCoreClient.csproj",
+  "projectFilePath": "C:\\Users\\olivehe001\\Documents\\Hernandes\\Git\\.NET\\ProvaNetCore\\ProvaNetCoreClient\\ProvaNetCoreClient.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\olivehe001\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\olivehe001\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

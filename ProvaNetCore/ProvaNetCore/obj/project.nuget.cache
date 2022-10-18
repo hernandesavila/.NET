@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pNlqozWA8eay1suNP+OBqYkflPBvvd5agORp4HtLlt9nKbvlwpKB3sW1QSP6aIOLwVpBWk/uvEHyiip60fNJIg==",
+  "dgSpecHash": "xox8imCBpAsPxY7rVA+r7Da48C+KaOLOsBh8/p51Dqy51lijLP095M2ASkrnXyzNEw6HeTuVjLH395LkYnpEeg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\olivehe001\\source\\repos\\ProvaNetCore\\ProvaNetCore\\ProvaNetCore.csproj",
+  "projectFilePath": "C:\\Users\\olivehe001\\Documents\\Hernandes\\Git\\.NET\\ProvaNetCore\\ProvaNetCore\\ProvaNetCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\olivehe001\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\olivehe001\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

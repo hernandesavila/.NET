@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\olivehe001\\source\\repos\\ProvaNetCore\\ProvaNetCoreClient\\ProvaNetCoreClient.csproj": {}
+    "C:\\Users\\olivehe001\\Documents\\Hernandes\\Git\\.NET\\ProvaNetCore\\ProvaNetCoreClient\\ProvaNetCoreClient.csproj": {}
   },
   "projects": {
-    "C:\\Users\\olivehe001\\source\\repos\\ProvaNetCore\\ProvaNetCoreClient\\ProvaNetCoreClient.csproj": {
+    "C:\\Users\\olivehe001\\Documents\\Hernandes\\Git\\.NET\\ProvaNetCore\\ProvaNetCoreClient\\ProvaNetCoreClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\olivehe001\\source\\repos\\ProvaNetCore\\ProvaNetCoreClient\\ProvaNetCoreClient.csproj",
+        "projectUniqueName": "C:\\Users\\olivehe001\\Documents\\Hernandes\\Git\\.NET\\ProvaNetCore\\ProvaNetCoreClient\\ProvaNetCoreClient.csproj",
         "projectName": "ProvaNetCoreClient",
-        "projectPath": "C:\\Users\\olivehe001\\source\\repos\\ProvaNetCore\\ProvaNetCoreClient\\ProvaNetCoreClient.csproj",
+        "projectPath": "C:\\Users\\olivehe001\\Documents\\Hernandes\\Git\\.NET\\ProvaNetCore\\ProvaNetCoreClient\\ProvaNetCoreClient.csproj",
         "packagesPath": "C:\\Users\\olivehe001\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\olivehe001\\source\\repos\\ProvaNetCore\\ProvaNetCoreClient\\obj\\",
+        "outputPath": "C:\\Users\\olivehe001\\Documents\\Hernandes\\Git\\.NET\\ProvaNetCore\\ProvaNetCoreClient\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

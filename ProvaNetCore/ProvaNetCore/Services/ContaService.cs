@@ -68,5 +68,17 @@ namespace ProvaNetCore.Services
 
             return _mapper.Map<List<ReadContaDto>>(contas);
         }
+
+        public ReadContaDto RecuperarContaPorId(int id)
+        {
+            Conta conta = _context.Contas.FirstOrDefault(conta => conta.Id == id);
+
+            if (conta != null)
+            {
+                return _mapper.Map<ReadContaDto>(conta);
+            }
+
+            return null;
+        }
     }
 }

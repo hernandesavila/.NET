@@ -5,7 +5,9 @@ VisualStudioVersion = 17.1.32319.34
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProvaNetCore", "ProvaNetCore\ProvaNetCore.csproj", "{F3E6FC21-A9BF-4A71-9925-22C94170D24E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProvaNetCoreClient", "ProvaNetCoreClient\ProvaNetCoreClient.csproj", "{4AE74FE2-2809-4E52-9DEA-BDFE191C2ED7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProvaNetCoreClient", "ProvaNetCoreClient\ProvaNetCoreClient.csproj", "{4AE74FE2-2809-4E52-9DEA-BDFE191C2ED7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProvaNetCoreTesteUnitario", "ProvaNetCoreTesteUnitario\ProvaNetCoreTesteUnitario.csproj", "{F7120D0F-064A-4464-AC9D-86890A0AFA3F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{4AE74FE2-2809-4E52-9DEA-BDFE191C2ED7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4AE74FE2-2809-4E52-9DEA-BDFE191C2ED7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4AE74FE2-2809-4E52-9DEA-BDFE191C2ED7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7120D0F-064A-4464-AC9D-86890A0AFA3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7120D0F-064A-4464-AC9D-86890A0AFA3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7120D0F-064A-4464-AC9D-86890A0AFA3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7120D0F-064A-4464-AC9D-86890A0AFA3F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

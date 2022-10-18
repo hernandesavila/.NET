@@ -8,6 +8,9 @@ namespace ProvaNetCore.Services
         {
             RestClient client = new RestClient(baseUri);
             var request = new RestRequest(resource);
+
+            request.AddHeader("Accept", "application/json");
+
             var response = await client.ExecuteGetAsync(request);
             
             if(response.IsSuccessful)
