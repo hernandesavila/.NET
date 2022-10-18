@@ -21,7 +21,7 @@ namespace ProvaNetCore.Controllers
         {
             ReadContaDto readContaDto = _contaService.CriarConta(createContaDto);
 
-            return CreatedAtAction(nameof(CadastrarConta), new { Id = readContaDto.Id }, readContaDto);
+            return CreatedAtAction(nameof(RecuperarContaPorId), new { Id = readContaDto.Id }, readContaDto);
         }
 
         [HttpPut("{id}")]

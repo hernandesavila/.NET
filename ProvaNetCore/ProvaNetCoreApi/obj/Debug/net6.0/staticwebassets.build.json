@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "rZIHu0NO92dEAGL+0OisQMFqg686p5FbcssoGuJqj6o=",
-  "Source": "ProvaNetCore",
-  "BasePath": "_content/ProvaNetCore",
+  "Hash": "L0HVlzgWit9mYwxZ0Tc3gkloMMGsw25r0BjvxHqeO58=",
+  "Source": "ProvaNetCoreApi",
+  "BasePath": "_content/ProvaNetCoreApi",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
